@@ -15,3 +15,4 @@ UML Class Diagram
 Uploaded java codes for the solution.   
 Upload your GitHub Solution link here. 
   
+![Lab Assignment 5 Singleton Pattern](https://github.com/user-attachments/assets/26e3339a-816a-4c93-9984-af671d867863)
